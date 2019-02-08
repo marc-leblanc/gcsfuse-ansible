@@ -1,4 +1,4 @@
-#GCSFuse install#
+# GCSFuse install #
 
 Currently this only works for CentOS7, may eventually extend it, maybe not. 
 **Overview of steps**
