@@ -11,6 +11,7 @@ Currently this only works for CentOS7, may eventually extend it, maybe not.
 Pretty easy. 
 
 **Usage**
+
 ```ansible-playbook gcsfuse.yml```
 
 ## Bootstrap ##
